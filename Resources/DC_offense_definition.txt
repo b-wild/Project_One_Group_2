@@ -1,0 +1,11 @@
+What crimes are shown here?
+All statistics presented in Crime Cards are based on preliminary DC Index crime 
+data reported from 2009 up to a second before midnight today (that's 11:59:59 pm yesterday). 
+They are compiled based on the date the offense was reported ( Report Date) to the police department. 
+The date and time window of the crime’s occurrence is provided in the See a detailed list… card, 
+but the reliability of these dates and times may vary considerably. The Crime Cards application 
+displays two main crime categories: Violent Crime and Property Crime. Violent Crimes include homicide, 
+sex abuse, assault with a dangerous weapon (ADW), and robbery. Violent crimes can be further searched by 
+the weapon used: guns, non-guns, or either. Property Crimes include burglary, motor vehicle theft, 
+theft from vehicle, theft (other), and arson. Please be aware that not all crime incidents may appear 
+in the Crime Cards that may be listed in other resources (see FAQ on matching data below).
