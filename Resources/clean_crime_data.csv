@@ -55,7 +55,6 @@
 5198,2022,2022-04-20,property,theft/other,theft/other,property|theft/other,17:43:00
 5199,2022,2022-04-18,property,theft f/auto,theft f/auto,property|theft f/auto,09:00:00
 5214,2022,2022-04-26,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,09:30:00
-5215,2022,2022-02-02,violent,sex abuse,sex abuse,violent|sex abuse,11:00:00
 5220,2022,2022-04-17,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
 5221,2022,2022-03-05,property,theft/other,theft/other,property|theft/other,14:00:00
 5222,2022,2022-04-14,property,theft/other,theft/other,property|theft/other,09:00:00
@@ -65,8 +64,6 @@
 5226,2022,2022-04-19,property,theft/other,theft/other,property|theft/other,18:30:00
 5227,2022,2022-04-15,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 5228,2022,2022-04-19,property,theft f/auto,theft f/auto,property|theft f/auto,19:10:00
-5229,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,09:14:00
-5232,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,01:00:00
 5233,2022,2022-03-16,property,theft f/auto,theft f/auto,property|theft f/auto,12:00:00
 5234,2022,2022-03-18,property,theft/other,theft/other,property|theft/other,10:00:00
 5235,2022,2022-03-05,property,theft/other,theft/other,property|theft/other,09:30:00
@@ -95,15 +92,10 @@
 5327,2022,2022-02-09,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,15:12:00
 5330,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,09:00:00
 5331,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,07:30:00
-5352,2022,2022-02-02,violent,robbery,robbery,violent|robbery,16:01:00
-5353,2022,2022-02-02,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,19:41:00
-5354,2022,2022-02-02,violent,robbery,robbery,violent|robbery,21:14:00
-5355,2022,2022-02-02,violent,robbery,robbery,violent|robbery,23:02:00
 5356,2022,2022-02-27,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,14:39:00
 5357,2022,2022-02-27,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,17:00:00
 5358,2022,2022-02-09,violent,homicide,homicide,violent|homicide,15:05:00
 5373,2022,2022-04-25,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:51:00
-5374,2022,2022-02-02,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,16:44:00
 5377,2022,2022-02-25,property,theft/other,theft/other,property|theft/other,19:20:00
 5378,2022,2022-02-27,property,theft/other,theft/other,property|theft/other,16:34:00
 5379,2022,2022-02-27,property,theft/other,theft/other,property|theft/other,17:02:00
@@ -155,11 +147,8 @@
 5482,2022,2022-04-03,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 5483,2022,2022-04-13,property,theft f/auto,theft f/auto,property|theft f/auto,16:40:00
 5484,2022,2022-04-13,property,theft/other,theft/other,property|theft/other,19:34:00
-5513,2022,2022-02-02,violent,robbery,robbery,violent|robbery,11:20:00
-5514,2022,2022-02-02,violent,robbery,robbery,violent|robbery,12:29:00
 5515,2022,2022-02-27,violent,robbery,robbery,violent|robbery,05:00:00
 5516,2022,2022-03-24,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,13:59:00
-5520,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,11:08:00
 5521,2022,2022-02-08,property,theft f/auto,theft f/auto,property|theft f/auto,10:58:00
 5522,2022,2022-02-27,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,00:15:00
 5523,2022,2022-02-27,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,03:33:00
@@ -309,10 +298,6 @@
 5840,2022,2022-03-01,violent,robbery,robbery,violent|robbery,20:55:00
 5841,2022,2022-03-02,violent,robbery,robbery,violent|robbery,09:02:00
 5842,2022,2022-04-20,property,theft f/auto,theft f/auto,property|theft f/auto,19:50:00
-5844,2022,2022-02-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:00:00
-5845,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,13:00:00
-5846,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,07:00:00
-5847,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,10:41:00
 5848,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,13:00:00
 5849,2022,2022-02-10,property,theft/other,theft/other,property|theft/other,17:08:00
 5850,2022,2022-02-10,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
@@ -325,7 +310,6 @@
 5857,2022,2022-03-27,property,theft f/auto,theft f/auto,property|theft f/auto,10:58:00
 5858,2022,2022-04-09,property,theft f/auto,theft f/auto,property|theft f/auto,12:30:00
 5859,2022,2022-04-16,violent,robbery,robbery,violent|robbery,22:26:00
-5862,2022,2022-02-01,violent,robbery,robbery,violent|robbery,01:50:00
 5863,2022,2022-03-16,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,22:58:00
 5864,2022,2022-04-16,property,theft f/auto,theft f/auto,property|theft f/auto,15:30:00
 5865,2022,2022-04-17,property,theft/other,theft/other,property|theft/other,00:20:00
@@ -411,9 +395,6 @@
 5952,2022,2022-04-23,property,theft/other,theft/other,property|theft/other,12:31:00
 5953,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,05:00:00
 5954,2022,2022-04-23,property,theft/other,theft/other,property|theft/other,14:52:00
-5958,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,06:56:00
-5959,2022,2022-02-01,property,burglary,burglary,property|burglary,06:12:00
-5961,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,09:08:00
 5962,2022,2022-02-06,property,theft f/auto,theft f/auto,property|theft f/auto,11:00:00
 5963,2022,2022-02-06,property,theft f/auto,theft f/auto,property|theft f/auto,19:30:00
 5964,2022,2022-02-06,property,theft f/auto,theft f/auto,property|theft f/auto,18:45:00
@@ -481,8 +462,6 @@
 6026,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,00:20:00
 6027,2022,2022-04-21,property,theft f/auto,theft f/auto,property|theft f/auto,07:00:00
 6028,2022,2022-04-20,property,theft/other,theft/other,property|theft/other,11:45:00
-6031,2022,2022-02-05,violent,robbery,robbery,violent|robbery,00:14:00
-6032,2022,2022-02-05,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,01:03:00
 6033,2022,2022-02-22,violent,robbery,robbery,violent|robbery,23:15:00
 6034,2022,2022-02-23,violent,robbery,robbery,violent|robbery,01:30:00
 6035,2022,2022-03-20,violent,robbery,robbery,violent|robbery,20:11:00
@@ -552,7 +531,6 @@
 6111,2022,2022-06-14,property,theft/other,theft/other,property|theft/other,20:35:00
 6112,2022,2022-06-14,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:15:00
 6113,2022,2022-06-12,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
-6114,2022,2022-02-05,violent,robbery,robbery,violent|robbery,05:30:00
 6115,2022,2022-02-10,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,09:41:00
 6116,2022,2022-06-14,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 6117,2022,2022-06-20,property,theft/other,theft/other,property|theft/other,01:09:00
@@ -729,7 +707,6 @@
 6307,2022,2022-06-29,property,theft/other,theft/other,property|theft/other,18:00:00
 6308,2022,2022-07-17,violent,robbery,robbery,violent|robbery,20:53:00
 6309,2022,2022-07-18,violent,robbery,robbery,violent|robbery,06:34:00
-6310,2022,2022-02-04,violent,robbery,robbery,violent|robbery,18:53:00
 6311,2022,2022-02-22,violent,robbery,robbery,violent|robbery,20:42:00
 6312,2022,2022-02-22,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,20:35:00
 6313,2022,2022-06-30,property,theft f/auto,theft f/auto,property|theft f/auto,20:50:00
@@ -742,9 +719,6 @@
 6320,2022,2022-07-22,property,theft/other,theft/other,property|theft/other,17:30:00
 6321,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,17:24:00
 6322,2022,2022-02-08,property,theft/other,theft/other,property|theft/other,11:40:00
-6325,2022,2022-02-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,15:00:00
-6326,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,14:00:00
-6327,2022,2022-02-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,16:27:00
 6328,2022,2022-02-17,property,theft/other,theft/other,property|theft/other,18:00:00
 6329,2022,2022-02-22,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,19:26:00
 6330,2022,2022-02-22,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:05:00
@@ -822,7 +796,6 @@
 6408,2022,2022-04-17,violent,robbery,robbery,violent|robbery,16:30:00
 6409,2022,2022-04-26,violent,robbery,robbery,violent|robbery,01:30:00
 6410,2022,2022-04-26,violent,robbery,robbery,violent|robbery,18:41:00
-6411,2022,2022-02-04,violent,robbery,robbery,violent|robbery,18:54:00
 6412,2022,2022-02-10,violent,sex abuse,sex abuse,violent|sex abuse,02:30:00
 6413,2022,2022-03-01,violent,robbery,robbery,violent|robbery,09:46:00
 6414,2022,2022-03-07,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,18:30:00
@@ -832,7 +805,6 @@
 6418,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,18:09:00
 6419,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,17:36:00
 6420,2022,2022-04-26,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:20:00
-6421,2022,2022-02-03,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 6422,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,15:40:00
 6423,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,22:18:00
 6424,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
@@ -923,7 +895,6 @@
 6530,2022,2022-02-06,property,theft f/auto,theft f/auto,property|theft f/auto,14:54:00
 6531,2022,2022-02-06,property,theft/other,theft/other,property|theft/other,15:13:00
 6532,2022,2022-02-06,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,16:15:00
-6533,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,20:30:00
 6535,2022,2022-02-20,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,06:00:00
 6536,2022,2022-02-24,property,theft/other,theft/other,property|theft/other,18:48:00
 6537,2022,2022-03-03,property,theft/other,theft/other,property|theft/other,02:38:00
@@ -934,7 +905,6 @@
 6542,2022,2022-03-03,property,theft/other,theft/other,property|theft/other,10:40:00
 6543,2022,2022-03-22,property,theft f/auto,theft f/auto,property|theft f/auto,10:28:00
 6544,2022,2022-03-08,property,theft f/auto,theft f/auto,property|theft f/auto,08:00:00
-6545,2022,2022-02-01,violent,robbery,robbery,violent|robbery,21:58:00
 6546,2022,2022-05-01,violent,robbery,robbery,violent|robbery,22:12:00
 6547,2022,2022-05-01,violent,robbery,robbery,violent|robbery,23:40:00
 6548,2022,2022-05-08,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,16:55:00
@@ -951,8 +921,6 @@
 6559,2022,2022-04-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,08:00:00
 6560,2022,2022-04-17,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:00:00
 6561,2022,2022-04-18,property,theft/other,theft/other,property|theft/other,14:09:00
-6565,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,07:48:00
-6566,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,07:58:00
 6567,2022,2022-05-01,property,theft f/auto,theft f/auto,property|theft f/auto,21:45:00
 6568,2022,2022-05-01,property,burglary,burglary,property|burglary,21:00:00
 6569,2022,2022-05-02,property,theft f/auto,theft f/auto,property|theft f/auto,06:45:00
@@ -985,12 +953,10 @@
 6596,2022,2022-07-22,property,theft/other,theft/other,property|theft/other,17:56:00
 6597,2022,2022-05-04,property,theft/other,theft/other,property|theft/other,19:59:00
 6598,2022,2022-05-03,property,theft f/auto,theft f/auto,property|theft f/auto,18:30:00
-6601,2022,2022-02-04,violent,robbery,robbery,violent|robbery,04:50:00
 6602,2022,2022-02-22,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,12:53:00
 6603,2022,2022-02-28,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,17:56:00
 6604,2022,2022-03-19,violent,robbery,robbery,violent|robbery,23:45:00
 6605,2022,2022-05-11,property,theft f/auto,theft f/auto,property|theft f/auto,11:37:00
-6610,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,10:30:00
 6611,2022,2022-02-21,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 6612,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,13:51:00
 6613,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,08:02:00
@@ -1017,7 +983,6 @@
 6639,2022,2022-03-26,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 6640,2022,2022-03-28,property,theft/other,theft/other,property|theft/other,16:11:00
 6641,2022,2022-03-28,property,theft/other,theft/other,property|theft/other,02:00:00
-6642,2022,2022-02-02,violent,robbery,robbery,violent|robbery,07:58:00
 6643,2022,2022-02-08,violent,robbery,robbery,violent|robbery,09:06:00
 6644,2022,2022-05-27,violent,robbery,robbery,violent|robbery,12:25:00
 6645,2022,2022-04-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,07:00:00
@@ -1027,7 +992,6 @@
 6649,2022,2022-04-24,property,theft f/auto,theft f/auto,property|theft f/auto,14:50:00
 6650,2022,2022-04-24,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,15:20:00
 6651,2022,2022-04-24,property,theft/other,theft/other,property|theft/other,16:55:00
-6653,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,14:00:00
 6654,2022,2022-02-07,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:00:00
 6655,2022,2022-02-08,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,04:00:00
 6656,2022,2022-02-08,property,theft f/auto,theft f/auto,property|theft f/auto,09:30:00
@@ -1079,10 +1043,6 @@
 6702,2022,2022-03-26,violent,robbery,robbery,violent|robbery,02:14:00
 6703,2022,2022-04-15,violent,robbery,robbery,violent|robbery,13:26:00
 6704,2022,2022-05-23,property,theft/other,theft/other,property|theft/other,03:52:00
-6705,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,10:55:00
-6706,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,13:05:00
-6707,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,13:13:00
-6708,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,14:00:00
 6709,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,18:58:00
 6710,2022,2022-02-25,property,theft/other,theft/other,property|theft/other,17:00:00
 6711,2022,2022-02-26,property,theft/other,theft/other,property|theft/other,13:00:00
@@ -1188,10 +1148,7 @@
 6833,2022,2022-03-02,violent,robbery,robbery,violent|robbery,19:58:00
 6834,2022,2022-03-21,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,20:25:00
 6835,2022,2022-04-18,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,00:05:00
-6836,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,12:30:00
-6837,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,14:45:00
 6838,2022,2022-02-06,property,theft/other,theft/other,property|theft/other,10:37:00
-6839,2022,2022-02-05,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,13:00:00
 6840,2022,2022-02-10,property,theft/other,theft/other,property|theft/other,19:27:00
 6841,2022,2022-03-02,property,theft f/auto,theft f/auto,property|theft f/auto,06:30:00
 6842,2022,2022-03-01,property,theft f/auto,theft f/auto,property|theft f/auto,17:30:00
@@ -1207,13 +1164,8 @@
 6852,2022,2022-04-17,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:15:00
 6853,2022,2022-04-18,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,06:28:00
 6854,2022,2022-04-18,property,theft f/auto,theft f/auto,property|theft f/auto,06:00:00
-6856,2022,2022-02-01,violent,homicide,homicide,violent|homicide,14:33:00
-6857,2022,2022-02-01,violent,robbery,robbery,violent|robbery,18:10:00
-6858,2022,2022-02-01,violent,robbery,robbery,violent|robbery,19:27:00
 6859,2022,2022-02-26,violent,robbery,robbery,violent|robbery,10:07:00
 6860,2022,2022-06-18,violent,robbery,robbery,violent|robbery,21:50:00
-6861,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,09:00:00
-6862,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,19:36:00
 6863,2022,2022-02-19,property,theft/other,theft/other,property|theft/other,13:00:00
 6864,2022,2022-02-19,property,theft f/auto,theft f/auto,property|theft f/auto,15:50:00
 6865,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,10:21:00
@@ -1221,7 +1173,6 @@
 6867,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,08:55:00
 6868,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,12:30:00
 6869,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,14:10:00
-6870,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 6871,2022,2022-05-21,property,theft f/auto,theft f/auto,property|theft f/auto,12:31:00
 6872,2022,2022-05-26,property,theft/other,theft/other,property|theft/other,22:03:00
 6873,2022,2022-05-26,property,theft/other,theft/other,property|theft/other,22:28:00
@@ -1243,7 +1194,6 @@
 6889,2022,2022-07-06,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,06:00:00
 6890,2022,2022-07-13,property,theft f/auto,theft f/auto,property|theft f/auto,20:15:00
 6891,2022,2022-07-17,property,theft/other,theft/other,property|theft/other,10:30:00
-6892,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,18:00:00
 6893,2022,2022-05-10,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:42:00
 6894,2022,2022-05-27,property,theft f/auto,theft f/auto,property|theft f/auto,22:00:00
 6895,2022,2022-06-03,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,16:00:00
@@ -1280,7 +1230,6 @@
 6932,2022,2022-04-23,violent,robbery,robbery,violent|robbery,23:52:00
 6933,2022,2022-04-23,violent,robbery,robbery,violent|robbery,22:20:00
 6934,2022,2022-04-24,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,06:07:00
-6935,2022,2022-02-01,violent,robbery,robbery,violent|robbery,20:43:00
 6936,2022,2022-02-09,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,10:15:00
 6937,2022,2022-02-11,property,theft/other,theft/other,property|theft/other,17:28:00
 6938,2022,2022-02-11,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:37:00
@@ -1354,7 +1303,6 @@
 7007,2022,2022-03-19,violent,robbery,robbery,violent|robbery,20:53:00
 7008,2022,2022-03-25,violent,robbery,robbery,violent|robbery,17:13:00
 7009,2022,2022-03-25,violent,robbery,robbery,violent|robbery,20:28:00
-7010,2022,2022-02-05,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,15:55:00
 7011,2022,2022-02-17,violent,robbery,robbery,violent|robbery,20:47:00
 7012,2022,2022-02-17,violent,robbery,robbery,violent|robbery,22:14:00
 7013,2022,2022-02-27,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
@@ -1370,9 +1318,6 @@
 7023,2022,2022-04-20,property,theft f/auto,theft f/auto,property|theft f/auto,20:30:00
 7024,2022,2022-04-21,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,16:12:00
 7025,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,17:21:00
-7031,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,12:00:00
-7032,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,18:12:00
-7033,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,00:05:00
 7034,2022,2022-02-17,property,theft/other,theft/other,property|theft/other,21:22:00
 7035,2022,2022-03-15,violent,homicide,homicide,violent|homicide,11:59:00
 7036,2022,2022-03-14,violent,robbery,robbery,violent|robbery,16:00:00
@@ -1437,7 +1382,6 @@
 7102,2022,2022-03-13,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,09:41:00
 7103,2022,2022-04-01,property,theft f/auto,theft f/auto,property|theft f/auto,07:57:00
 7104,2022,2022-04-01,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,10:22:00
-7111,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 7112,2022,2022-02-11,property,theft/other,theft/other,property|theft/other,06:54:00
 7113,2022,2022-02-23,property,theft f/auto,theft f/auto,property|theft f/auto,20:43:00
 7114,2022,2022-02-19,property,theft/other,theft/other,property|theft/other,12:00:00
@@ -1542,11 +1486,7 @@
 7225,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,18:43:00
 7226,2022,2022-04-23,property,theft/other,theft/other,property|theft/other,18:15:00
 7227,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,00:05:00
-7229,2022,2022-02-01,property,burglary,burglary,property|burglary,13:29:00
-7230,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,15:28:00
-7231,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,13:40:00
 7232,2022,2022-02-06,property,theft f/auto,theft f/auto,property|theft f/auto,18:05:00
-7233,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,17:45:00
 7234,2022,2022-02-06,property,theft f/auto,theft f/auto,property|theft f/auto,22:00:00
 7235,2022,2022-02-06,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
 7236,2022,2022-02-07,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:14:00
@@ -1601,7 +1541,6 @@
 7285,2022,2022-06-30,property,theft/other,theft/other,property|theft/other,22:00:00
 7286,2022,2022-03-23,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 7287,2022,2022-03-25,property,theft f/auto,theft f/auto,property|theft f/auto,05:30:00
-7288,2022,2022-02-05,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,13:11:00
 7289,2022,2022-03-15,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,01:41:00
 7290,2022,2022-03-15,violent,robbery,robbery,violent|robbery,09:00:00
 7291,2022,2022-04-14,property,theft/other,theft/other,property|theft/other,16:15:00
@@ -1610,8 +1549,6 @@
 7294,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,11:14:00
 7295,2022,2022-04-20,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:00:00
 7296,2022,2022-04-21,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,05:00:00
-7299,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,10:15:00
-7300,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,12:30:00
 7301,2022,2022-02-17,property,theft f/auto,theft f/auto,property|theft f/auto,09:30:00
 7302,2022,2022-02-23,property,theft/other,theft/other,property|theft/other,10:09:00
 7303,2022,2022-02-23,property,theft/other,theft/other,property|theft/other,11:06:00
@@ -3912,7 +3849,6 @@
 9608,2022,2022-11-20,violent,robbery,robbery,violent|robbery,16:37:00
 9609,2022,2022-12-17,property,theft/other,theft/other,property|theft/other,15:50:00
 9610,2022,2022-02-11,property,theft f/auto,theft f/auto,property|theft f/auto,14:00:00
-9611,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,09:00:00
 9612,2022,2022-11-18,property,theft/other,theft/other,property|theft/other,15:00:00
 9613,2022,2022-10-28,property,theft/other,theft/other,property|theft/other,16:23:00
 9614,2022,2022-10-18,property,theft f/auto,theft f/auto,property|theft f/auto,15:00:00
@@ -4237,7 +4173,6 @@
 9937,2022,2022-12-09,property,theft/other,theft/other,property|theft/other,21:00:00
 9938,2022,2022-11-05,property,theft f/auto,theft f/auto,property|theft f/auto,20:00:00
 9939,2022,2022-02-11,property,theft/other,theft/other,property|theft/other,13:15:00
-9940,2022,2022-02-03,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 9941,2022,2022-05-30,property,theft/other,theft/other,property|theft/other,10:50:00
 9942,2022,2022-05-26,property,theft f/auto,theft f/auto,property|theft f/auto,16:30:00
 9943,2022,2022-05-27,property,theft f/auto,theft f/auto,property|theft f/auto,12:00:00
@@ -4419,7 +4354,6 @@
 10120,2022,2022-12-20,property,burglary,burglary,property|burglary,11:59:00
 10121,2022,2022-12-19,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,19:30:00
 10122,2022,2022-12-21,property,theft/other,theft/other,property|theft/other,13:08:00
-10126,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,17:30:00
 10127,2022,2022-05-24,property,theft f/auto,theft f/auto,property|theft f/auto,16:25:00
 10128,2022,2022-08-19,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
 10129,2022,2022-11-02,violent,sex abuse,sex abuse,violent|sex abuse,12:13:00
@@ -5553,11 +5487,7 @@
 16241,2022,2022-04-06,property,theft/other,theft/other,property|theft/other,12:10:00
 16242,2022,2022-04-19,property,theft/other,theft/other,property|theft/other,18:30:00
 16243,2022,2022-04-19,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
-16244,2022,2022-02-03,violent,robbery,robbery,violent|robbery,16:25:00
 16246,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,07:22:00
-16252,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,12:55:00
-16254,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,18:30:00
-16255,2022,2022-02-03,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:09:00
 16285,2022,2022-03-29,property,theft f/auto,theft f/auto,property|theft f/auto,23:30:00
 16286,2022,2022-04-01,property,theft f/auto,theft f/auto,property|theft f/auto,10:30:00
 16287,2022,2022-04-05,property,burglary,burglary,property|burglary,17:54:00
@@ -5587,7 +5517,6 @@
 16340,2022,2022-04-19,property,theft/other,theft/other,property|theft/other,18:00:00
 16371,2022,2022-04-19,property,theft f/auto,theft f/auto,property|theft f/auto,07:30:00
 16372,2022,2022-04-01,property,theft/other,theft/other,property|theft/other,13:00:00
-16376,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
 16382,2022,2022-03-18,property,theft f/auto,theft f/auto,property|theft f/auto,14:36:00
 16383,2022,2022-03-18,property,theft f/auto,theft f/auto,property|theft f/auto,12:00:00
 16384,2022,2022-03-18,property,theft f/auto,theft f/auto,property|theft f/auto,00:00:00
@@ -5621,17 +5550,11 @@
 16491,2022,2022-02-08,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,13:45:00
 16492,2022,2022-02-08,property,theft f/auto,theft f/auto,property|theft f/auto,09:55:00
 16493,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,15:20:00
-16508,2022,2022-02-02,violent,robbery,robbery,violent|robbery,21:16:00
-16509,2022,2022-02-02,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,22:30:00
 16520,2022,2022-04-25,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:31:00
 16521,2022,2022-04-24,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
 16522,2022,2022-04-22,property,theft/other,theft/other,property|theft/other,18:45:00
 16523,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,20:00:00
 16524,2022,2022-04-25,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:30:00
-16526,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,18:20:00
-16527,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,20:40:00
-16528,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,13:15:00
-16529,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,18:00:00
 16531,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,17:30:00
 16532,2022,2022-02-21,property,theft/other,theft/other,property|theft/other,18:24:00
 16535,2022,2022-02-15,property,theft/other,theft/other,property|theft/other,11:47:00
@@ -5645,7 +5568,6 @@
 16573,2022,2022-02-08,property,burglary,burglary,property|burglary,18:50:00
 16574,2022,2022-02-08,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:20:00
 16575,2022,2022-02-07,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
-16576,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,15:06:00
 16577,2022,2022-02-14,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,15:11:00
 16578,2022,2022-02-27,property,theft/other,theft/other,property|theft/other,18:25:00
 16579,2022,2022-02-27,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,19:28:00
@@ -5679,12 +5601,6 @@
 16635,2022,2022-03-12,property,theft/other,theft/other,property|theft/other,12:05:00
 16636,2022,2022-04-11,violent,robbery,robbery,violent|robbery,03:15:00
 16637,2022,2022-04-13,violent,robbery,robbery,violent|robbery,16:47:00
-16663,2022,2022-02-02,violent,robbery,robbery,violent|robbery,12:36:00
-16664,2022,2022-02-02,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,13:54:00
-16669,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,10:24:00
-16670,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,12:00:00
-16671,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,08:30:00
-16673,2022,2022-02-02,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,13:54:00
 16675,2022,2022-02-08,property,theft f/auto,theft f/auto,property|theft f/auto,07:15:00
 16676,2022,2022-02-20,property,theft f/auto,theft f/auto,property|theft f/auto,19:45:00
 16677,2022,2022-02-21,property,theft/other,theft/other,property|theft/other,11:55:00
@@ -5841,10 +5757,6 @@
 17013,2022,2022-03-21,violent,robbery,robbery,violent|robbery,08:55:00
 17014,2022,2022-03-21,violent,robbery,robbery,violent|robbery,10:00:00
 17015,2022,2022-03-21,violent,robbery,robbery,violent|robbery,11:31:00
-17020,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,16:08:00
-17021,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,15:03:00
-17022,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,11:00:00
-17023,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,15:00:00
 17024,2022,2022-02-10,property,theft/other,theft/other,property|theft/other,15:07:00
 17025,2022,2022-02-07,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 17026,2022,2022-02-23,property,burglary,burglary,property|burglary,15:44:00
@@ -6006,9 +5918,6 @@
 17203,2022,2022-02-22,violent,robbery,robbery,violent|robbery,22:04:00
 17204,2022,2022-03-20,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,20:55:00
 17205,2022,2022-04-09,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,13:17:00
-17208,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
-17209,2022,2022-02-05,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,01:46:00
-17210,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,23:30:00
 17211,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,19:00:00
 17213,2022,2022-02-23,property,theft/other,theft/other,property|theft/other,08:00:00
 17214,2022,2022-03-14,property,theft f/auto,theft f/auto,property|theft f/auto,17:39:00
@@ -6094,12 +6003,9 @@
 17299,2022,2022-04-26,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:00:00
 17300,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,09:15:00
 17301,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,21:46:00
-17302,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,07:25:00
-17303,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,09:53:00
 17304,2022,2022-03-26,violent,robbery,robbery,violent|robbery,22:45:00
 17306,2022,2022-02-09,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,01:10:00
 17307,2022,2022-02-10,property,theft/other,theft/other,property|theft/other,11:05:00
-17308,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,22:00:00
 17309,2022,2022-03-08,property,theft/other,theft/other,property|theft/other,01:57:00
 17310,2022,2022-03-15,property,theft/other,theft/other,property|theft/other,10:50:00
 17311,2022,2022-03-21,property,burglary,burglary,property|burglary,04:12:00
@@ -6256,14 +6162,12 @@
 17478,2022,2022-07-23,violent,robbery,robbery,violent|robbery,03:04:00
 17479,2022,2022-07-23,violent,robbery,robbery,violent|robbery,15:10:00
 17480,2022,2022-07-23,violent,robbery,robbery,violent|robbery,16:27:00
-17481,2022,2022-02-04,violent,robbery,robbery,violent|robbery,17:10:00
 17482,2022,2022-07-17,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,23:16:00
 17483,2022,2022-07-23,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,15:20:00
 17484,2022,2022-07-22,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
 17485,2022,2022-07-23,property,theft f/auto,theft f/auto,property|theft f/auto,09:30:00
 17486,2022,2022-04-28,property,theft/other,theft/other,property|theft/other,13:14:00
 17487,2022,2022-04-28,property,burglary,burglary,property|burglary,15:55:00
-17490,2022,2022-02-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,08:00:00
 17491,2022,2022-02-22,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:17:00
 17492,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,19:31:00
 17493,2022,2022-02-22,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:25:00
@@ -6351,9 +6255,6 @@
 17587,2022,2022-04-26,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 17588,2022,2022-04-15,property,theft f/auto,theft f/auto,property|theft f/auto,12:25:00
 17589,2022,2022-04-26,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:39:00
-17591,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,12:00:00
-17592,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,22:15:00
-17593,2022,2022-02-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:35:00
 17594,2022,2022-02-07,property,theft/other,theft/other,property|theft/other,17:00:00
 17595,2022,2022-02-27,property,theft f/auto,theft f/auto,property|theft f/auto,17:30:00
 17596,2022,2022-03-01,property,theft/other,theft/other,property|theft/other,12:30:00
@@ -6450,9 +6351,7 @@
 17706,2022,2022-04-20,property,theft f/auto,theft f/auto,property|theft f/auto,09:00:00
 17707,2022,2022-04-22,property,theft/other,theft/other,property|theft/other,16:25:00
 17708,2022,2022-04-22,property,theft/other,theft/other,property|theft/other,16:42:00
-17711,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,18:55:00
 17713,2022,2022-02-06,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,14:11:00
-17714,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,20:00:00
 17716,2022,2022-02-06,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:19:00
 17717,2022,2022-02-06,property,theft/other,theft/other,property|theft/other,17:37:00
 17718,2022,2022-02-11,property,theft/other,theft/other,property|theft/other,19:53:00
@@ -6468,16 +6367,12 @@
 17728,2022,2022-03-22,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,10:15:00
 17729,2022,2022-03-28,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,10:56:00
 17730,2022,2022-04-11,violent,robbery,robbery,violent|robbery,11:09:00
-17731,2022,2022-02-01,violent,robbery,robbery,violent|robbery,22:51:00
-17732,2022,2022-02-02,violent,robbery,robbery,violent|robbery,04:47:00
 17733,2022,2022-03-19,property,burglary,burglary,property|burglary,21:30:00
 17734,2022,2022-04-18,property,burglary,burglary,property|burglary,07:44:00
 17735,2022,2022-04-15,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 17736,2022,2022-04-18,property,theft f/auto,theft f/auto,property|theft f/auto,12:07:00
 17737,2022,2022-04-18,property,theft f/auto,theft f/auto,property|theft f/auto,11:00:00
 17738,2022,2022-04-13,property,theft/other,theft/other,property|theft/other,14:30:00
-17740,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,02:00:00
-17741,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,02:59:00
 17742,2022,2022-05-02,property,burglary,burglary,property|burglary,05:00:00
 17743,2022,2022-05-01,property,theft/other,theft/other,property|theft/other,15:12:00
 17744,2022,2022-04-25,property,theft f/auto,theft f/auto,property|theft f/auto,09:55:00
@@ -6505,13 +6400,11 @@
 17766,2022,2022-05-04,property,theft/other,theft/other,property|theft/other,21:06:00
 17767,2022,2022-05-10,property,theft f/auto,theft f/auto,property|theft f/auto,11:45:00
 17768,2022,2022-05-06,property,theft/other,theft/other,property|theft/other,22:00:00
-17770,2022,2022-02-03,violent,robbery,robbery,violent|robbery,23:36:00
 17771,2022,2022-03-19,violent,robbery,robbery,violent|robbery,21:09:00
 17772,2022,2022-03-20,violent,robbery,robbery,violent|robbery,01:11:00
 17773,2022,2022-04-08,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,16:33:00
 17774,2022,2022-05-11,property,theft/other,theft/other,property|theft/other,11:15:00
 17775,2022,2022-05-07,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
-17777,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,03:47:00
 17778,2022,2022-02-22,property,burglary,burglary,property|burglary,09:48:00
 17779,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,13:33:00
 17780,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,13:24:00
@@ -6548,12 +6441,10 @@
 17816,2022,2022-04-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,02:20:00
 17817,2022,2022-04-15,property,theft/other,theft/other,property|theft/other,12:00:00
 17819,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
-17820,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,18:30:00
 17821,2022,2022-02-08,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,06:59:00
 17822,2022,2022-02-08,property,theft/other,theft/other,property|theft/other,08:20:00
 17823,2022,2022-02-07,property,theft/other,theft/other,property|theft/other,09:42:00
 17824,2022,2022-02-07,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,19:35:00
-17825,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,23:30:00
 17826,2022,2022-02-08,property,theft f/auto,theft f/auto,property|theft f/auto,12:16:00
 17827,2022,2022-05-06,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
 17828,2022,2022-05-08,property,theft f/auto,theft f/auto,property|theft f/auto,18:15:00
@@ -6590,14 +6481,11 @@
 17859,2022,2022-03-25,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,23:03:00
 17860,2022,2022-04-21,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,19:00:00
 17861,2022,2022-05-17,property,theft/other,theft/other,property|theft/other,11:00:00
-17862,2022,2022-02-03,property,theft f/auto,theft f/auto,property|theft f/auto,18:00:00
-17863,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,13:05:00
 17864,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,17:10:00
 17865,2022,2022-02-08,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 17866,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,09:10:00
 17867,2022,2022-02-09,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,19:30:00
 17868,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,10:00:00
-17869,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,17:00:00
 17870,2022,2022-02-28,property,theft/other,theft/other,property|theft/other,20:56:00
 17871,2022,2022-03-07,property,theft/other,theft/other,property|theft/other,12:50:00
 17872,2022,2022-03-19,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:30:00
@@ -6698,9 +6586,7 @@
 17981,2022,2022-04-10,violent,robbery,robbery,violent|robbery,21:17:00
 17982,2022,2022-02-06,property,theft/other,theft/other,property|theft/other,06:08:00
 17983,2022,2022-02-06,property,theft/other,theft/other,property|theft/other,08:00:00
-17984,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 17985,2022,2022-02-06,property,theft/other,theft/other,property|theft/other,07:25:00
-17986,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,13:45:00
 17987,2022,2022-02-11,property,theft/other,theft/other,property|theft/other,13:53:00
 17988,2022,2022-02-24,property,burglary,burglary,property|burglary,03:15:00
 17989,2022,2022-03-02,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:45:00
@@ -6718,8 +6604,6 @@
 18003,2022,2022-05-27,violent,robbery,robbery,violent|robbery,00:22:00
 18004,2022,2022-06-13,violent,robbery,robbery,violent|robbery,21:19:00
 18005,2022,2022-06-13,violent,robbery,robbery,violent|robbery,21:10:00
-18007,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,16:31:00
-18008,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,12:45:00
 18009,2022,2022-02-19,property,theft f/auto,theft f/auto,property|theft f/auto,07:00:00
 18010,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,10:13:00
 18011,2022,2022-02-19,property,theft f/auto,theft f/auto,property|theft f/auto,10:00:00
@@ -6806,7 +6690,6 @@
 18097,2022,2022-04-22,property,theft f/auto,theft f/auto,property|theft f/auto,18:20:00
 18098,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,10:45:00
 18099,2022,2022-04-24,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,10:37:00
-18101,2022,2022-02-01,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:44:00
 18102,2022,2022-02-07,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:53:00
 18103,2022,2022-02-07,violent,robbery,robbery,violent|robbery,23:13:00
 18104,2022,2022-02-26,violent,robbery,robbery,violent|robbery,14:25:00
@@ -6879,13 +6762,11 @@
 18172,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,17:47:00
 18173,2022,2022-04-21,property,theft f/auto,theft f/auto,property|theft f/auto,18:12:00
 18174,2022,2022-04-18,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
-18177,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,15:45:00
 18178,2022,2022-02-17,property,burglary,burglary,property|burglary,18:48:00
 18179,2022,2022-03-13,violent,sex abuse,sex abuse,violent|sex abuse,03:30:00
 18180,2022,2022-03-21,violent,robbery,robbery,violent|robbery,12:05:00
 18181,2022,2022-04-03,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,19:15:00
 18182,2022,2022-04-10,violent,robbery,robbery,violent|robbery,03:13:00
-18185,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,20:03:00
 18186,2022,2022-02-23,property,theft f/auto,theft f/auto,property|theft f/auto,11:00:00
 18187,2022,2022-02-12,property,theft f/auto,theft f/auto,property|theft f/auto,02:30:00
 18188,2022,2022-02-23,property,theft/other,theft/other,property|theft/other,19:19:00
@@ -6981,13 +6862,9 @@
 18287,2022,2022-04-07,property,burglary,burglary,property|burglary,01:00:00
 18288,2022,2022-04-07,property,theft f/auto,theft f/auto,property|theft f/auto,15:00:00
 18289,2022,2022-04-21,property,theft f/auto,theft f/auto,property|theft f/auto,08:00:00
-18294,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,20:10:00
-18295,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,15:25:00
-18296,2022,2022-02-05,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:05:00
 18297,2022,2022-02-10,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,23:23:00
 18298,2022,2022-02-10,property,theft f/auto,theft f/auto,property|theft f/auto,13:30:00
 18299,2022,2022-04-17,violent,robbery,robbery,violent|robbery,14:18:00
-18300,2022,2022-02-01,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,00:00:00
 18301,2022,2022-02-21,property,theft f/auto,theft f/auto,property|theft f/auto,10:00:00
 18302,2022,2022-03-02,property,theft/other,theft/other,property|theft/other,13:38:00
 18303,2022,2022-03-21,property,theft/other,theft/other,property|theft/other,09:47:00
@@ -7006,9 +6883,6 @@
 18316,2022,2022-04-15,property,theft f/auto,theft f/auto,property|theft f/auto,23:30:00
 18317,2022,2022-04-17,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,16:44:00
 18318,2022,2022-04-22,property,theft/other,theft/other,property|theft/other,18:00:00
-18324,2022,2022-02-01,property,burglary,burglary,property|burglary,01:45:00
-18325,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,10:18:00
-18327,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,13:47:00
 18328,2022,2022-02-19,property,theft f/auto,theft f/auto,property|theft f/auto,14:55:00
 18329,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,02:09:00
 18330,2022,2022-02-25,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:02:00
@@ -7101,7 +6975,6 @@
 18423,2022,2022-04-23,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:35:00
 18424,2022,2022-04-23,property,theft/other,theft/other,property|theft/other,23:24:00
 18425,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,23:50:00
-18427,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,14:00:00
 18428,2022,2022-02-06,property,theft f/auto,theft f/auto,property|theft f/auto,13:15:00
 18429,2022,2022-02-06,property,theft f/auto,theft f/auto,property|theft f/auto,16:30:00
 18430,2022,2022-02-07,property,theft/other,theft/other,property|theft/other,16:26:00
@@ -7164,7 +7037,6 @@
 18491,2022,2022-04-21,property,theft f/auto,theft f/auto,property|theft f/auto,00:00:00
 18492,2022,2022-04-20,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:55:00
 18493,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,12:30:00
-18498,2022,2022-02-03,property,theft f/auto,theft f/auto,property|theft f/auto,16:45:00
 18499,2022,2022-02-17,property,theft/other,theft/other,property|theft/other,16:40:00
 18500,2022,2022-02-22,property,theft f/auto,theft f/auto,property|theft f/auto,21:15:00
 18501,2022,2022-02-23,property,theft f/auto,theft f/auto,property|theft f/auto,08:30:00
@@ -9861,7 +9733,6 @@
 21215,2022,2022-12-27,property,theft/other,theft/other,property|theft/other,21:47:00
 21216,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,22:00:00
 21217,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,19:00:00
-21218,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,15:21:00
 21219,2022,2022-02-13,property,theft/other,theft/other,property|theft/other,16:55:00
 21220,2022,2022-05-29,property,theft/other,theft/other,property|theft/other,01:10:00
 21221,2022,2022-05-30,property,theft/other,theft/other,property|theft/other,04:01:00
@@ -11284,11 +11155,6 @@
 27549,2022,2022-04-26,property,theft f/auto,theft f/auto,property|theft f/auto,17:30:00
 27550,2022,2022-04-27,property,theft f/auto,theft f/auto,property|theft f/auto,11:51:00
 27551,2022,2022-04-14,property,theft/other,theft/other,property|theft/other,10:30:00
-27553,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,16:35:00
-27554,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,17:49:00
-27555,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,18:00:00
-27557,2022,2022-02-03,property,theft f/auto,theft f/auto,property|theft f/auto,07:30:00
-27558,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,19:45:00
 27572,2022,2022-04-27,violent,robbery,robbery,violent|robbery,15:45:00
 27588,2022,2022-03-29,property,theft f/auto,theft f/auto,property|theft f/auto,03:00:00
 27589,2022,2022-03-29,property,theft f/auto,theft f/auto,property|theft f/auto,21:30:00
@@ -11332,13 +11198,7 @@
 27694,2022,2022-04-25,property,theft/other,theft/other,property|theft/other,09:15:00
 27695,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,08:38:00
 27696,2022,2022-04-21,property,theft f/auto,theft f/auto,property|theft f/auto,08:38:00
-27697,2022,2022-02-03,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,09:05:00
-27698,2022,2022-02-02,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,23:30:00
-27699,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,21:30:00
-27700,2022,2022-02-02,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:00:00
-27701,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,12:47:00
 27702,2022,2022-03-18,violent,robbery,robbery,violent|robbery,15:36:00
-27704,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,10:00:00
 27705,2022,2022-03-11,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
 27706,2022,2022-03-18,property,theft f/auto,theft f/auto,property|theft f/auto,11:45:00
 27707,2022,2022-03-18,property,theft/other,theft/other,property|theft/other,17:04:00
@@ -11347,7 +11207,6 @@
 27733,2022,2022-02-09,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,12:10:00
 27743,2022,2022-04-26,property,theft f/auto,theft f/auto,property|theft f/auto,11:41:00
 27744,2022,2022-04-26,property,theft f/auto,theft f/auto,property|theft f/auto,02:00:00
-27748,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,15:00:00
 27749,2022,2022-02-08,property,theft/other,theft/other,property|theft/other,12:00:00
 27750,2022,2022-02-07,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 27757,2022,2022-03-28,property,theft/other,theft/other,property|theft/other,16:00:00
@@ -11362,17 +11221,7 @@
 27799,2022,2022-02-14,property,theft/other,theft/other,property|theft/other,10:58:00
 27800,2022,2022-02-19,property,theft f/auto,theft f/auto,property|theft f/auto,15:00:00
 27801,2022,2022-02-16,property,theft/other,theft/other,property|theft/other,15:57:00
-27802,2022,2022-02-03,violent,robbery,robbery,violent|robbery,19:20:00
-27803,2022,2022-02-03,violent,robbery,robbery,violent|robbery,20:10:00
-27804,2022,2022-02-03,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,21:25:00
-27811,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,12:00:00
-27812,2022,2022-02-03,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:15:00
-27813,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,12:30:00
-27814,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,07:00:00
 27815,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,15:49:00
-27827,2022,2022-02-02,violent,robbery,robbery,violent|robbery,17:59:00
-27839,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,17:10:00
-27840,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,14:30:00
 27841,2022,2022-02-11,property,theft/other,theft/other,property|theft/other,02:00:00
 27843,2022,2022-02-21,property,theft/other,theft/other,property|theft/other,17:30:00
 27844,2022,2022-02-27,property,burglary,burglary,property|burglary,01:20:00
@@ -11423,15 +11272,8 @@
 27950,2022,2022-04-05,property,theft f/auto,theft f/auto,property|theft f/auto,06:30:00
 27951,2022,2022-04-06,property,theft f/auto,theft f/auto,property|theft f/auto,22:10:00
 27952,2022,2022-04-06,property,theft f/auto,theft f/auto,property|theft f/auto,23:08:00
-27970,2022,2022-02-02,violent,robbery,robbery,violent|robbery,11:02:00
-27971,2022,2022-02-02,violent,robbery,robbery,violent|robbery,11:54:00
-27972,2022,2022-02-02,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,11:42:00
-27973,2022,2022-02-02,violent,robbery,robbery,violent|robbery,09:50:00
 27974,2022,2022-02-27,violent,homicide,homicide,violent|homicide,05:09:00
 27975,2022,2022-03-06,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,22:33:00
-27980,2022,2022-02-02,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,11:13:00
-27981,2022,2022-02-02,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,12:15:00
-27982,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,10:30:00
 27983,2022,2022-02-08,property,theft/other,theft/other,property|theft/other,13:35:00
 27984,2022,2022-02-19,property,burglary,burglary,property|burglary,03:40:00
 27985,2022,2022-02-21,property,theft/other,theft/other,property|theft/other,10:57:00
@@ -11481,7 +11323,6 @@
 28081,2022,2022-03-31,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,01:48:00
 28083,2022,2022-02-14,property,theft f/auto,theft f/auto,property|theft f/auto,09:00:00
 28084,2022,2022-02-14,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,13:26:00
-28085,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,09:00:00
 28086,2022,2022-02-10,property,theft/other,theft/other,property|theft/other,18:45:00
 28087,2022,2022-03-06,property,theft/other,theft/other,property|theft/other,09:28:00
 28088,2022,2022-03-05,property,theft/other,theft/other,property|theft/other,11:20:00
@@ -11574,9 +11415,6 @@
 28292,2022,2022-04-07,property,theft f/auto,theft f/auto,property|theft f/auto,12:59:00
 28294,2022,2022-03-21,violent,robbery,robbery,violent|robbery,09:00:00
 28295,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,13:58:00
-28301,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,00:00:00
-28302,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,10:00:00
-28303,2022,2022-02-05,property,burglary,burglary,property|burglary,15:45:00
 28304,2022,2022-02-10,property,burglary,burglary,property|burglary,15:00:00
 28305,2022,2022-03-01,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:51:00
 28306,2022,2022-03-02,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,05:18:00
@@ -11596,7 +11434,6 @@
 28321,2022,2022-04-13,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
 28322,2022,2022-04-17,property,burglary,burglary,property|burglary,04:30:00
 28323,2022,2022-04-21,property,theft f/auto,theft f/auto,property|theft f/auto,11:20:00
-28327,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,01:27:00
 28330,2022,2022-02-18,property,theft/other,theft/other,property|theft/other,15:30:00
 28331,2022,2022-02-19,property,theft/other,theft/other,property|theft/other,11:38:00
 28332,2022,2022-02-19,property,theft/other,theft/other,property|theft/other,12:46:00
@@ -11759,10 +11596,8 @@
 28502,2022,2022-04-14,property,theft/other,theft/other,property|theft/other,10:53:00
 28503,2022,2022-04-20,property,theft/other,theft/other,property|theft/other,23:41:00
 28504,2022,2022-03-26,property,theft/other,theft/other,property|theft/other,09:00:00
-28507,2022,2022-02-04,violent,robbery,robbery,violent|robbery,23:15:00
 28508,2022,2022-03-13,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,21:27:00
 28509,2022,2022-03-14,violent,robbery,robbery,violent|robbery,22:20:00
-28511,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,19:00:00
 28512,2022,2022-02-22,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:38:00
 28513,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,23:10:00
 28514,2022,2022-02-23,property,theft/other,theft/other,property|theft/other,03:50:00
@@ -11859,9 +11694,6 @@
 28607,2022,2022-04-22,property,theft/other,theft/other,property|theft/other,16:00:00
 28608,2022,2022-04-20,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,08:50:00
 28609,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,13:00:00
-28612,2022,2022-02-05,property,burglary,burglary,property|burglary,05:58:00
-28613,2022,2022-02-05,property,burglary,burglary,property|burglary,00:00:00
-28614,2022,2022-02-05,property,burglary,burglary,property|burglary,09:10:00
 28615,2022,2022-02-10,property,theft/other,theft/other,property|theft/other,09:00:00
 28616,2022,2022-02-10,property,theft/other,theft/other,property|theft/other,09:55:00
 28617,2022,2022-02-10,violent,robbery,robbery,violent|robbery,11:10:00
@@ -11869,7 +11701,6 @@
 28619,2022,2022-04-16,violent,homicide,homicide,violent|homicide,04:07:00
 28620,2022,2022-04-16,violent,robbery,robbery,violent|robbery,09:13:00
 28621,2022,2022-04-16,violent,homicide,homicide,violent|homicide,10:57:00
-28623,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,12:00:00
 28624,2022,2022-02-28,property,theft/other,theft/other,property|theft/other,14:36:00
 28625,2022,2022-03-01,property,theft f/auto,theft f/auto,property|theft f/auto,14:20:00
 28626,2022,2022-02-28,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
@@ -12057,8 +11888,6 @@
 28822,2022,2022-07-23,property,theft f/auto,theft f/auto,property|theft f/auto,16:45:00
 28823,2022,2022-04-22,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,05:00:00
 28824,2022,2022-04-28,property,theft/other,theft/other,property|theft/other,15:45:00
-28828,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,16:08:00
-28829,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,19:01:00
 28830,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,16:56:00
 28831,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,12:13:00
 28832,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,18:14:00
@@ -12133,7 +11962,6 @@
 28907,2022,2022-04-27,property,theft/other,theft/other,property|theft/other,19:00:00
 28908,2022,2022-04-22,property,theft f/auto,theft f/auto,property|theft f/auto,22:30:00
 28909,2022,2022-04-26,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:00:00
-28911,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,09:00:00
 28912,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,14:50:00
 28913,2022,2022-02-10,property,theft f/auto,theft f/auto,property|theft f/auto,07:16:00
 28914,2022,2022-02-25,property,theft/other,theft/other,property|theft/other,16:00:00
@@ -12238,12 +12066,10 @@
 29045,2022,2022-02-24,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:16:00
 29047,2022,2022-03-22,property,theft/other,theft/other,property|theft/other,10:01:00
 29048,2022,2022-03-21,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
-29049,2022,2022-02-02,violent,robbery,robbery,violent|robbery,05:52:00
 29050,2022,2022-03-22,property,theft/other,theft/other,property|theft/other,13:46:00
 29051,2022,2022-04-10,property,theft f/auto,theft f/auto,property|theft f/auto,12:00:00
 29052,2022,2022-04-17,property,theft f/auto,theft f/auto,property|theft f/auto,18:00:00
 29053,2022,2022-04-18,property,theft/other,theft/other,property|theft/other,09:40:00
-29056,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,05:53:00
 29057,2022,2022-05-01,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 29058,2022,2022-04-29,property,burglary,burglary,property|burglary,11:30:00
 29059,2022,2022-05-08,property,theft/other,theft/other,property|theft/other,16:20:00
@@ -12280,13 +12106,9 @@
 29090,2022,2022-05-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:34:00
 29091,2022,2022-05-10,property,theft/other,theft/other,property|theft/other,16:00:00
 29092,2022,2022-05-10,property,theft/other,theft/other,property|theft/other,08:50:00
-29095,2022,2022-02-03,violent,robbery,robbery,violent|robbery,22:35:00
-29096,2022,2022-02-04,violent,robbery,robbery,violent|robbery,07:40:00
-29097,2022,2022-02-04,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,07:25:00
 29098,2022,2022-02-22,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,13:47:00
 29099,2022,2022-05-11,property,theft/other,theft/other,property|theft/other,11:23:00
 29100,2022,2022-05-11,property,theft f/auto,theft f/auto,property|theft f/auto,11:30:00
-29103,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,07:59:00
 29104,2022,2022-02-17,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,08:30:00
 29105,2022,2022-02-21,property,theft f/auto,theft f/auto,property|theft f/auto,13:00:00
 29106,2022,2022-02-19,property,theft/other,theft/other,property|theft/other,04:00:00
@@ -12333,8 +12155,6 @@
 29153,2022,2022-04-24,property,theft f/auto,theft f/auto,property|theft f/auto,10:30:00
 29154,2022,2022-04-24,property,theft f/auto,theft f/auto,property|theft f/auto,13:00:00
 29155,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,22:10:00
-29158,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,22:45:00
-29159,2022,2022-02-01,property,burglary,burglary,property|burglary,15:00:00
 29160,2022,2022-05-08,property,theft/other,theft/other,property|theft/other,19:21:00
 29161,2022,2022-05-07,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,19:00:00
 29162,2022,2022-05-08,property,theft/other,theft/other,property|theft/other,22:34:00
@@ -12467,13 +12287,10 @@
 29302,2022,2022-04-21,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,23:15:00
 29303,2022,2022-04-18,property,theft/other,theft/other,property|theft/other,23:00:00
 29304,2022,2022-04-22,property,theft/other,theft/other,property|theft/other,09:41:00
-29310,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,14:42:00
 29311,2022,2022-02-11,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,14:19:00
 29312,2022,2022-03-21,violent,robbery,robbery,violent|robbery,21:53:00
 29313,2022,2022-03-27,violent,robbery,robbery,violent|robbery,21:00:00
-29314,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,16:30:00
 29315,2022,2022-02-06,property,theft f/auto,theft f/auto,property|theft f/auto,09:02:00
-29316,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,00:00:00
 29317,2022,2022-02-24,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,09:00:00
 29318,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,11:30:00
 29319,2022,2022-02-24,property,theft/other,theft/other,property|theft/other,12:03:00
@@ -12491,11 +12308,9 @@
 29331,2022,2022-04-17,property,theft/other,theft/other,property|theft/other,18:22:00
 29332,2022,2022-04-17,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:10:00
 29333,2022,2022-04-17,property,theft/other,theft/other,property|theft/other,22:00:00
-29337,2022,2022-02-01,violent,robbery,robbery,violent|robbery,19:24:00
 29338,2022,2022-05-26,violent,robbery,robbery,violent|robbery,19:42:00
 29339,2022,2022-06-13,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,19:22:00
 29340,2022,2022-06-18,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,21:14:00
-29342,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,17:10:00
 29344,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,13:47:00
 29345,2022,2022-02-19,property,theft/other,theft/other,property|theft/other,13:00:00
 29346,2022,2022-02-26,property,theft/other,theft/other,property|theft/other,08:13:00
@@ -12562,8 +12377,6 @@
 29417,2022,2022-02-10,property,theft f/auto,theft f/auto,property|theft f/auto,18:00:00
 29418,2022,2022-03-09,violent,robbery,robbery,violent|robbery,00:58:00
 29419,2022,2022-04-24,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,00:45:00
-29420,2022,2022-02-01,violent,robbery,robbery,violent|robbery,20:48:00
-29421,2022,2022-02-01,violent,robbery,robbery,violent|robbery,21:45:00
 29422,2022,2022-02-11,property,theft/other,theft/other,property|theft/other,15:05:00
 29423,2022,2022-02-11,property,theft f/auto,theft f/auto,property|theft f/auto,00:01:00
 29424,2022,2022-02-13,property,theft f/auto,theft f/auto,property|theft f/auto,16:30:00
@@ -12581,9 +12394,6 @@
 29437,2022,2022-04-03,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,19:49:00
 29438,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,23:46:00
 29439,2022,2022-04-24,property,theft f/auto,theft f/auto,property|theft f/auto,00:15:00
-29441,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,20:33:00
-29442,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,11:00:00
-29443,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,18:30:00
 29444,2022,2022-06-19,violent,robbery,robbery,violent|robbery,03:22:00
 29445,2022,2022-02-07,property,theft/other,theft/other,property|theft/other,10:30:00
 29446,2022,2022-02-07,property,theft/other,theft/other,property|theft/other,20:34:00
@@ -12646,7 +12456,6 @@
 29503,2022,2022-04-21,property,theft f/auto,theft f/auto,property|theft f/auto,02:30:00
 29504,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,15:58:00
 29505,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,17:20:00
-29510,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,17:42:00
 29511,2022,2022-02-17,property,theft/other,theft/other,property|theft/other,20:31:00
 29512,2022,2022-04-10,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,11:51:00
 29513,2022,2022-04-10,violent,robbery,robbery,violent|robbery,12:20:00
@@ -12722,8 +12531,6 @@
 29589,2022,2022-03-12,property,theft/other,theft/other,property|theft/other,19:10:00
 29590,2022,2022-03-12,property,theft/other,theft/other,property|theft/other,18:59:00
 29591,2022,2022-03-11,property,theft f/auto,theft f/auto,property|theft f/auto,18:00:00
-29592,2022,2022-02-05,violent,robbery,robbery,violent|robbery,19:24:00
-29593,2022,2022-02-05,violent,robbery,robbery,violent|robbery,19:33:00
 29594,2022,2022-03-12,property,theft f/auto,theft f/auto,property|theft f/auto,21:27:00
 29595,2022,2022-03-13,property,burglary,burglary,property|burglary,03:30:00
 29596,2022,2022-04-01,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,04:24:00
@@ -12731,9 +12538,6 @@
 29598,2022,2022-04-01,property,theft/other,theft/other,property|theft/other,09:46:00
 29599,2022,2022-04-06,property,theft f/auto,theft f/auto,property|theft f/auto,22:00:00
 29600,2022,2022-04-21,property,theft f/auto,theft f/auto,property|theft f/auto,18:41:00
-29605,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,15:15:00
-29606,2022,2022-02-05,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:24:00
-29607,2022,2022-02-05,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:10:00
 29608,2022,2022-02-23,property,theft f/auto,theft f/auto,property|theft f/auto,18:15:00
 29609,2022,2022-03-01,property,theft f/auto,theft f/auto,property|theft f/auto,17:30:00
 29610,2022,2022-03-01,property,theft f/auto,theft f/auto,property|theft f/auto,21:30:00
@@ -12756,7 +12560,6 @@
 29627,2022,2022-04-17,property,burglary,burglary,property|burglary,12:54:00
 29628,2022,2022-04-16,property,theft f/auto,theft f/auto,property|theft f/auto,00:05:00
 29629,2022,2022-04-15,property,theft f/auto,theft f/auto,property|theft f/auto,20:30:00
-29631,2022,2022-02-01,property,burglary,burglary,property|burglary,01:59:00
 29633,2022,2022-02-10,property,theft/other,theft/other,property|theft/other,15:00:00
 29634,2022,2022-02-19,property,theft/other,theft/other,property|theft/other,21:45:00
 29635,2022,2022-02-19,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,23:08:00
@@ -12855,7 +12658,6 @@
 29741,2022,2022-03-11,property,theft f/auto,theft f/auto,property|theft f/auto,14:00:00
 29742,2022,2022-03-23,property,theft f/auto,theft f/auto,property|theft f/auto,10:47:00
 29743,2022,2022-06-17,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
-29744,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,12:00:00
 29745,2022,2022-06-23,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:08:00
 29746,2022,2022-06-23,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:16:00
 29747,2022,2022-07-11,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,14:00:00
@@ -12891,7 +12693,6 @@
 29777,2022,2022-03-25,property,theft/other,theft/other,property|theft/other,14:02:00
 29778,2022,2022-03-24,property,theft f/auto,theft f/auto,property|theft f/auto,18:00:00
 29779,2022,2022-03-30,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,23:30:00
-29781,2022,2022-02-05,violent,homicide,homicide,violent|homicide,11:16:00
 29782,2022,2022-02-17,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,16:44:00
 29783,2022,2022-04-14,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,19:29:00
 29784,2022,2022-04-14,property,theft f/auto,theft f/auto,property|theft f/auto,15:00:00
@@ -12900,8 +12701,6 @@
 29787,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,09:51:00
 29788,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,13:13:00
 29789,2022,2022-04-20,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
-29793,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
-29794,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,14:04:00
 29795,2022,2022-02-16,property,theft f/auto,theft f/auto,property|theft f/auto,22:00:00
 29796,2022,2022-02-23,property,theft/other,theft/other,property|theft/other,14:12:00
 29797,2022,2022-02-19,property,theft/other,theft/other,property|theft/other,21:30:00
@@ -15452,8 +15251,6 @@
 32353,2022,2022-12-28,property,theft/other,theft/other,property|theft/other,10:00:00
 32354,2022,2022-12-28,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,16:00:00
 32355,2022,2022-12-28,property,theft/other,theft/other,property|theft/other,17:01:00
-32356,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,00:55:00
-32357,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,22:00:00
 32358,2022,2022-06-05,property,theft/other,theft/other,property|theft/other,02:17:00
 32359,2022,2022-06-07,property,theft f/auto,theft f/auto,property|theft f/auto,06:00:00
 32360,2022,2022-05-08,property,theft f/auto,theft f/auto,property|theft f/auto,23:59:00
@@ -15698,9 +15495,6 @@
 32599,2022,2022-12-20,property,theft/other,theft/other,property|theft/other,01:00:00
 32600,2022,2022-12-20,property,theft f/auto,theft f/auto,property|theft f/auto,16:00:00
 32601,2022,2022-12-21,property,theft/other,theft/other,property|theft/other,13:10:00
-32606,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,10:00:00
-32607,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,19:00:00
-32608,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,19:30:00
 32609,2022,2022-05-23,property,theft/other,theft/other,property|theft/other,08:15:00
 32610,2022,2022-08-19,property,theft/other,theft/other,property|theft/other,23:00:00
 32611,2022,2022-11-02,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,09:47:00
@@ -16864,8 +16658,6 @@
 38742,2022,2022-04-20,property,theft/other,theft/other,property|theft/other,07:08:00
 38745,2022,2022-04-20,property,burglary,burglary,property|burglary,02:25:00
 38746,2022,2022-04-20,property,theft/other,theft/other,property|theft/other,05:00:00
-38750,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,14:25:00
-38751,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,18:00:00
 38771,2022,2022-03-30,violent,sex abuse,sex abuse,violent|sex abuse,06:30:00
 38772,2022,2022-04-05,violent,robbery,robbery,violent|robbery,19:25:00
 38786,2022,2022-03-29,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
@@ -16894,12 +16686,6 @@
 38901,2022,2022-04-18,property,theft f/auto,theft f/auto,property|theft f/auto,15:00:00
 38902,2022,2022-04-19,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:23:00
 38903,2022,2022-04-24,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
-38907,2022,2022-02-03,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,08:03:00
-38908,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,10:42:00
-38909,2022,2022-02-03,property,theft f/auto,theft f/auto,property|theft f/auto,04:30:00
-38910,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,10:51:00
-38911,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,12:05:00
-38912,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,12:45:00
 38913,2022,2022-03-12,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,17:19:00
 38914,2022,2022-03-18,violent,robbery,robbery,violent|robbery,17:05:00
 38915,2022,2022-03-18,violent,robbery,robbery,violent|robbery,19:35:00
@@ -16930,7 +16716,6 @@
 39006,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,22:30:00
 39007,2022,2022-02-18,property,theft/other,theft/other,property|theft/other,17:00:00
 39008,2022,2022-02-20,property,theft f/auto,theft f/auto,property|theft f/auto,20:00:00
-39009,2022,2022-02-03,violent,robbery,robbery,violent|robbery,20:52:00
 39010,2022,2022-02-09,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,14:52:00
 39016,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,12:52:00
 39018,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,12:50:00
@@ -16939,10 +16724,6 @@
 39039,2022,2022-04-25,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,20:29:00
 39049,2022,2022-04-25,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,16:00:00
 39050,2022,2022-04-25,property,theft/other,theft/other,property|theft/other,19:40:00
-39052,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,16:58:00
-39053,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,22:19:00
-39054,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,18:15:00
-39055,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
 39057,2022,2022-02-21,property,theft/other,theft/other,property|theft/other,15:23:00
 39058,2022,2022-02-21,property,theft/other,theft/other,property|theft/other,15:15:00
 39060,2022,2022-02-21,property,theft/other,theft/other,property|theft/other,17:08:00
@@ -16992,9 +16773,6 @@
 39184,2022,2022-02-27,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,01:18:00
 39185,2022,2022-02-27,violent,robbery,robbery,violent|robbery,03:45:00
 39186,2022,2022-02-27,violent,robbery,robbery,violent|robbery,04:28:00
-39191,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,12:34:00
-39193,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
-39194,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,12:00:00
 39195,2022,2022-02-20,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
 39196,2022,2022-02-21,property,theft f/auto,theft f/auto,property|theft f/auto,10:35:00
 39197,2022,2022-02-21,property,theft f/auto,theft f/auto,property|theft f/auto,01:33:00
@@ -17232,11 +17010,8 @@
 39628,2022,2022-04-23,property,theft/other,theft/other,property|theft/other,13:00:00
 39629,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,14:52:00
 39632,2022,2022-02-07,property,theft/other,theft/other,property|theft/other,05:05:00
-39633,2022,2022-02-03,property,burglary,burglary,property|burglary,11:00:00
 39634,2022,2022-02-07,property,theft f/auto,theft f/auto,property|theft f/auto,08:00:00
 39636,2022,2022-02-07,property,burglary,burglary,property|burglary,08:40:00
-39637,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
-39638,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,23:30:00
 39639,2022,2022-02-25,property,theft/other,theft/other,property|theft/other,16:15:00
 39640,2022,2022-02-25,property,theft/other,theft/other,property|theft/other,16:05:00
 39641,2022,2022-02-25,property,burglary,burglary,property|burglary,17:08:00
@@ -17301,7 +17076,6 @@
 39707,2022,2022-03-14,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,19:02:00
 39708,2022,2022-03-14,violent,robbery,robbery,violent|robbery,21:28:00
 39709,2022,2022-04-03,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,06:54:00
-39711,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
 39712,2022,2022-02-17,property,theft/other,theft/other,property|theft/other,12:17:00
 39713,2022,2022-02-19,property,theft/other,theft/other,property|theft/other,17:00:00
 39714,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,15:09:00
@@ -17479,7 +17253,6 @@
 39907,2022,2022-04-15,property,burglary,burglary,property|burglary,17:00:00
 39909,2022,2022-02-06,property,theft/other,theft/other,property|theft/other,14:00:00
 39910,2022,2022-02-06,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:40:00
-39911,2022,2022-02-05,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,11:00:00
 39912,2022,2022-02-25,violent,robbery,robbery,violent|robbery,12:19:00
 39913,2022,2022-02-12,property,theft f/auto,theft f/auto,property|theft f/auto,02:39:00
 39914,2022,2022-02-24,property,theft/other,theft/other,property|theft/other,16:00:00
@@ -17541,11 +17314,6 @@
 39970,2022,2022-07-23,property,theft/other,theft/other,property|theft/other,00:30:00
 39971,2022,2022-04-28,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,11:07:00
 39972,2022,2022-04-27,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
-39980,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,13:45:00
-39981,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,20:20:00
-39982,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,15:56:00
-39984,2022,2022-02-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:22:00
-39985,2022,2022-02-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:08:00
 39986,2022,2022-02-12,property,theft f/auto,theft f/auto,property|theft f/auto,12:00:00
 39987,2022,2022-02-21,property,theft f/auto,theft f/auto,property|theft f/auto,18:00:00
 39988,2022,2022-02-22,property,theft/other,theft/other,property|theft/other,19:05:00
@@ -17615,7 +17383,6 @@
 40063,2022,2022-07-06,property,theft f/auto,theft f/auto,property|theft f/auto,18:30:00
 40064,2022,2022-07-06,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:41:00
 40065,2022,2022-07-06,property,theft/other,theft/other,property|theft/other,22:00:00
-40066,2022,2022-02-04,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,21:50:00
 40067,2022,2022-02-09,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,22:19:00
 40068,2022,2022-02-09,violent,robbery,robbery,violent|robbery,23:29:00
 40069,2022,2022-02-09,violent,sex abuse,sex abuse,violent|sex abuse,09:00:00
@@ -17632,8 +17399,6 @@
 40081,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,19:16:00
 40082,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,19:00:00
 40083,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,22:33:00
-40084,2022,2022-02-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,19:13:00
-40085,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,21:10:00
 40086,2022,2022-02-10,property,theft/other,theft/other,property|theft/other,00:09:00
 40087,2022,2022-02-14,property,theft f/auto,theft f/auto,property|theft f/auto,07:00:00
 40088,2022,2022-02-23,property,theft/other,theft/other,property|theft/other,19:12:00
@@ -17744,10 +17509,7 @@
 40211,2022,2022-04-21,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 40212,2022,2022-04-22,property,theft/other,theft/other,property|theft/other,14:49:00
 40213,2022,2022-04-21,property,theft f/auto,theft f/auto,property|theft f/auto,17:35:00
-40215,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,20:30:00
-40216,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,10:30:00
 40217,2022,2022-02-06,property,theft f/auto,theft f/auto,property|theft f/auto,14:10:00
-40218,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,21:30:00
 40219,2022,2022-02-06,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:35:00
 40222,2022,2022-02-24,property,theft f/auto,theft f/auto,property|theft f/auto,15:51:00
 40223,2022,2022-03-03,property,burglary,burglary,property|burglary,03:15:00
@@ -17755,8 +17517,6 @@
 40225,2022,2022-03-20,property,theft f/auto,theft f/auto,property|theft f/auto,13:45:00
 40226,2022,2022-03-18,property,theft/other,theft/other,property|theft/other,18:30:00
 40227,2022,2022-03-21,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,12:10:00
-40228,2022,2022-02-01,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,21:40:00
-40229,2022,2022-02-01,violent,robbery,robbery,violent|robbery,22:54:00
 40230,2022,2022-05-01,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,21:00:00
 40231,2022,2022-05-02,violent,robbery,robbery,violent|robbery,01:04:00
 40232,2022,2022-03-26,property,theft/other,theft/other,property|theft/other,02:02:00
@@ -17767,8 +17527,6 @@
 40237,2022,2022-04-16,property,burglary,burglary,property|burglary,19:00:00
 40238,2022,2022-04-18,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,08:45:00
 40239,2022,2022-04-05,property,theft f/auto,theft f/auto,property|theft f/auto,14:00:00
-40244,2022,2022-02-02,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,03:45:00
-40245,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,06:17:00
 40246,2022,2022-05-01,property,theft/other,theft/other,property|theft/other,22:57:00
 40247,2022,2022-05-01,property,theft f/auto,theft f/auto,property|theft f/auto,22:00:00
 40248,2022,2022-04-30,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,19:00:00
@@ -17807,10 +17565,6 @@
 40284,2022,2022-03-20,violent,robbery,robbery,violent|robbery,00:06:00
 40285,2022,2022-05-10,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
 40286,2022,2022-05-09,property,theft/other,theft/other,property|theft/other,23:00:00
-40289,2022,2022-02-03,property,theft f/auto,theft f/auto,property|theft f/auto,22:00:00
-40290,2022,2022-02-04,property,burglary,burglary,property|burglary,07:54:00
-40291,2022,2022-02-04,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,08:59:00
-40292,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,13:00:00
 40293,2022,2022-02-19,property,burglary,burglary,property|burglary,06:22:00
 40294,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,08:36:00
 40295,2022,2022-02-22,property,burglary,burglary,property|burglary,12:04:00
@@ -17851,7 +17605,6 @@
 40338,2022,2022-04-21,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,11:00:00
 40339,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,00:00:00
 40340,2022,2022-04-24,property,theft/other,theft/other,property|theft/other,16:58:00
-40343,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,19:00:00
 40345,2022,2022-02-08,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,10:30:00
 40346,2022,2022-02-08,property,theft/other,theft/other,property|theft/other,10:37:00
 40347,2022,2022-05-08,property,theft/other,theft/other,property|theft/other,20:06:00
@@ -17892,10 +17645,7 @@
 40382,2022,2022-04-15,violent,robbery,robbery,violent|robbery,14:48:00
 40383,2022,2022-05-16,property,burglary,burglary,property|burglary,23:54:00
 40384,2022,2022-05-20,property,theft f/auto,theft f/auto,property|theft f/auto,22:15:00
-40385,2022,2022-02-04,property,burglary,burglary,property|burglary,01:00:00
-40386,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,14:10:00
 40387,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,17:22:00
-40388,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,10:00:00
 40389,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,18:37:00
 40390,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,19:00:00
 40391,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,19:30:00
@@ -18006,7 +17756,6 @@
 40515,2022,2022-03-21,violent,robbery,robbery,violent|robbery,21:15:00
 40516,2022,2022-03-27,violent,robbery,robbery,violent|robbery,22:00:00
 40517,2022,2022-02-06,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,01:00:00
-40519,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
 40520,2022,2022-02-11,property,theft f/auto,theft f/auto,property|theft f/auto,13:00:00
 40521,2022,2022-02-23,property,theft f/auto,theft f/auto,property|theft f/auto,14:00:00
 40522,2022,2022-02-24,property,theft/other,theft/other,property|theft/other,11:40:00
@@ -18082,7 +17831,6 @@
 40604,2022,2022-02-17,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,19:58:00
 40605,2022,2022-03-03,violent,robbery,robbery,violent|robbery,00:17:00
 40606,2022,2022-03-09,violent,homicide,homicide,violent|homicide,03:38:00
-40607,2022,2022-02-01,violent,robbery,robbery,violent|robbery,20:49:00
 40608,2022,2022-02-11,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:40:00
 40609,2022,2022-02-11,property,theft/other,theft/other,property|theft/other,18:25:00
 40610,2022,2022-02-11,property,theft/other,theft/other,property|theft/other,17:55:00
@@ -18104,7 +17852,6 @@
 40626,2022,2022-04-22,property,theft/other,theft/other,property|theft/other,17:00:00
 40627,2022,2022-04-24,property,theft f/auto,theft f/auto,property|theft f/auto,00:00:00
 40628,2022,2022-04-19,property,theft/other,theft/other,property|theft/other,08:00:00
-40633,2022,2022-02-01,property,burglary,burglary,property|burglary,06:00:00
 40634,2022,2022-06-01,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,14:01:00
 40635,2022,2022-06-24,violent,robbery,robbery,violent|robbery,00:47:00
 40636,2022,2022-02-07,property,theft/other,theft/other,property|theft/other,20:31:00
@@ -18253,16 +18000,12 @@
 40795,2022,2022-04-07,property,theft/other,theft/other,property|theft/other,16:30:00
 40796,2022,2022-04-07,property,theft/other,theft/other,property|theft/other,16:50:00
 40797,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,18:33:00
-40804,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,18:41:00
-40805,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,20:17:00
-40806,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,21:20:00
 40807,2022,2022-02-10,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:30:00
 40808,2022,2022-02-11,property,theft/other,theft/other,property|theft/other,07:00:00
 40809,2022,2022-02-10,property,burglary,burglary,property|burglary,11:30:00
 40810,2022,2022-02-23,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,19:30:00
 40811,2022,2022-02-23,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:00:00
 40812,2022,2022-02-23,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,23:45:00
-40814,2022,2022-02-01,violent,robbery,robbery,violent|robbery,10:01:00
 40815,2022,2022-03-19,property,theft f/auto,theft f/auto,property|theft f/auto,18:30:00
 40816,2022,2022-03-20,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,00:00:00
 40817,2022,2022-03-26,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:00:00
@@ -18348,7 +18091,6 @@
 40909,2022,2022-04-03,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,13:40:00
 40910,2022,2022-04-03,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,13:59:00
 40911,2022,2022-04-23,violent,robbery,robbery,violent|robbery,15:06:00
-40913,2022,2022-02-01,violent,robbery,robbery,violent|robbery,12:30:00
 40914,2022,2022-04-02,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:30:00
 40915,2022,2022-04-02,property,theft/other,theft/other,property|theft/other,12:30:00
 40916,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,12:16:00
@@ -18357,9 +18099,6 @@
 40919,2022,2022-04-23,property,theft/other,theft/other,property|theft/other,20:54:00
 40920,2022,2022-04-22,property,theft f/auto,theft f/auto,property|theft f/auto,22:00:00
 40921,2022,2022-04-23,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,21:19:00
-40922,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,08:30:00
-40923,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,15:00:00
-40925,2022,2022-02-05,property,burglary,burglary,property|burglary,20:48:00
 40926,2022,2022-02-25,property,theft f/auto,theft f/auto,property|theft f/auto,23:56:00
 40927,2022,2022-02-26,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,03:26:00
 40928,2022,2022-03-23,violent,robbery,robbery,violent|robbery,08:35:00
@@ -18426,9 +18165,6 @@
 40989,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,10:09:00
 40990,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,10:15:00
 40991,2022,2022-04-20,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
-40996,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,06:50:00
-40997,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,11:59:00
-40998,2022,2022-02-03,property,burglary,burglary,property|burglary,09:30:00
 40999,2022,2022-02-17,property,theft/other,theft/other,property|theft/other,16:29:00
 41000,2022,2022-02-21,property,theft f/auto,theft f/auto,property|theft f/auto,18:30:00
 41001,2022,2022-02-23,property,theft f/auto,theft f/auto,property|theft f/auto,11:18:00
@@ -18877,7 +18613,6 @@
 41450,2022,2022-04-30,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:25:00
 41451,2022,2022-05-18,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,16:43:00
 41452,2022,2022-05-12,property,theft/other,theft/other,property|theft/other,15:55:00
-41453,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,15:02:00
 41454,2022,2022-05-25,property,theft/other,theft/other,property|theft/other,18:00:00
 41455,2022,2022-05-24,property,theft f/auto,theft f/auto,property|theft f/auto,08:00:00
 41456,2022,2022-05-25,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
@@ -20822,7 +20557,6 @@
 43404,2022,2022-12-21,property,theft/other,theft/other,property|theft/other,20:30:00
 43405,2022,2022-12-20,property,theft/other,theft/other,property|theft/other,10:00:00
 43406,2022,2022-12-21,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:50:00
-43409,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,09:00:00
 43410,2022,2022-06-03,property,theft/other,theft/other,property|theft/other,16:37:00
 43411,2022,2022-06-06,property,theft/other,theft/other,property|theft/other,09:00:00
 43412,2022,2022-08-25,property,theft/other,theft/other,property|theft/other,02:51:00
@@ -20977,7 +20711,6 @@
 43563,2022,2022-10-30,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,12:47:00
 43564,2022,2022-11-06,violent,robbery,robbery,violent|robbery,03:47:00
 43565,2022,2022-11-23,violent,robbery,robbery,violent|robbery,04:29:00
-43566,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,00:00:00
 43567,2022,2022-04-22,property,theft/other,theft/other,property|theft/other,22:00:00
 43568,2022,2022-07-13,property,theft f/auto,theft f/auto,property|theft f/auto,14:05:00
 43569,2022,2022-07-09,property,theft/other,theft/other,property|theft/other,12:00:00
@@ -22003,7 +21736,6 @@
 44618,2022,2022-12-29,property,theft/other,theft/other,property|theft/other,11:06:00
 44619,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,12:55:00
 44621,2022,2022-02-17,property,theft/other,theft/other,property|theft/other,22:00:00
-44622,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,12:05:00
 44623,2022,2022-02-15,property,theft/other,theft/other,property|theft/other,00:00:00
 44624,2023,2023-01-27,property,theft/other,theft/other,property|theft/other,12:25:00
 44625,2023,2023-01-27,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:30:00
@@ -22389,9 +22121,6 @@
 49995,2022,2022-03-16,property,theft/other,theft/other,property|theft/other,15:24:00
 49996,2022,2022-03-23,property,theft/other,theft/other,property|theft/other,19:45:00
 50001,2022,2022-04-20,property,theft/other,theft/other,property|theft/other,06:56:00
-50003,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,12:00:00
-50005,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,18:00:00
-50006,2022,2022-02-03,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:00:00
 50020,2022,2022-04-05,violent,robbery,robbery,violent|robbery,21:48:00
 50021,2022,2022-04-27,violent,robbery,robbery,violent|robbery,12:14:00
 50034,2022,2022-03-30,property,theft f/auto,theft f/auto,property|theft f/auto,09:32:00
@@ -22421,19 +22150,13 @@
 50087,2022,2022-04-12,property,theft f/auto,theft f/auto,property|theft f/auto,12:00:00
 50088,2022,2022-04-19,property,theft f/auto,theft f/auto,property|theft f/auto,05:00:00
 50089,2022,2022-04-20,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,18:34:00
-50103,2022,2022-02-03,violent,robbery,robbery,violent|robbery,14:23:00
 50121,2022,2022-04-19,property,theft f/auto,theft f/auto,property|theft f/auto,13:00:00
 50122,2022,2022-04-17,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 50123,2022,2022-04-18,property,theft f/auto,theft f/auto,property|theft f/auto,18:15:00
 50124,2022,2022-04-18,property,theft f/auto,theft f/auto,property|theft f/auto,12:00:00
 50125,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,05:30:00
 50126,2022,2022-03-30,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
-50128,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,11:15:00
-50129,2022,2022-02-02,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
-50130,2022,2022-02-03,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,12:30:00
 50131,2022,2022-03-18,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,20:54:00
-50133,2022,2022-02-03,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,15:13:00
-50134,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,17:15:00
 50135,2022,2022-03-09,property,theft/other,theft/other,property|theft/other,22:00:00
 50136,2022,2022-03-11,property,theft/other,theft/other,property|theft/other,03:50:00
 50137,2022,2022-03-12,property,theft/other,theft/other,property|theft/other,19:06:00
@@ -22447,7 +22170,6 @@
 50176,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,06:59:00
 50177,2022,2022-04-26,property,theft f/auto,theft f/auto,property|theft f/auto,09:00:00
 50178,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,12:00:00
-50180,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,16:27:00
 50182,2022,2022-02-07,property,theft f/auto,theft f/auto,property|theft f/auto,18:00:00
 50183,2022,2022-03-31,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,07:10:00
 50184,2022,2022-04-07,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,02:59:00
@@ -22470,8 +22192,6 @@
 50238,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,10:00:00
 50239,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,15:33:00
 50257,2022,2022-02-27,violent,robbery,robbery,violent|robbery,13:28:00
-50268,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
-50269,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,10:48:00
 50270,2022,2022-02-21,property,theft/other,theft/other,property|theft/other,14:15:00
 50271,2022,2022-02-21,property,theft/other,theft/other,property|theft/other,15:43:00
 50272,2022,2022-02-21,property,theft/other,theft/other,property|theft/other,16:09:00
@@ -22500,7 +22220,6 @@
 50321,2022,2022-04-26,property,theft f/auto,theft f/auto,property|theft f/auto,04:27:00
 50324,2022,2022-02-08,property,theft f/auto,theft f/auto,property|theft f/auto,10:00:00
 50325,2022,2022-02-08,property,theft/other,theft/other,property|theft/other,21:01:00
-50326,2022,2022-02-03,property,theft f/auto,theft f/auto,property|theft f/auto,18:00:00
 50327,2022,2022-02-08,property,theft f/auto,theft f/auto,property|theft f/auto,23:52:00
 50328,2022,2022-02-13,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 50329,2022,2022-02-27,property,theft f/auto,theft f/auto,property|theft f/auto,00:00:00
@@ -22517,7 +22236,6 @@
 50365,2022,2022-02-14,violent,robbery,robbery,violent|robbery,20:06:00
 50366,2022,2022-03-12,violent,robbery,robbery,violent|robbery,07:48:00
 50375,2022,2022-02-13,property,theft/other,theft/other,property|theft/other,12:00:00
-50376,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,12:25:00
 50377,2022,2022-02-13,property,theft f/auto,theft f/auto,property|theft f/auto,22:00:00
 50378,2022,2022-02-13,property,theft f/auto,theft f/auto,property|theft f/auto,23:45:00
 50379,2022,2022-02-14,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:01:00
@@ -22560,7 +22278,6 @@
 50458,2022,2022-02-08,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,17:56:00
 50459,2022,2022-02-08,violent,robbery,robbery,violent|robbery,18:48:00
 50460,2022,2022-03-24,violent,robbery,robbery,violent|robbery,20:11:00
-50463,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,10:30:00
 50464,2022,2022-02-08,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,14:40:00
 50465,2022,2022-02-08,property,theft/other,theft/other,property|theft/other,12:00:00
 50466,2022,2022-02-13,property,theft f/auto,theft f/auto,property|theft f/auto,17:03:00
@@ -22676,9 +22393,6 @@
 50728,2022,2022-04-19,violent,robbery,robbery,violent|robbery,23:00:00
 50730,2022,2022-02-10,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,13:59:00
 50731,2022,2022-04-05,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:00:00
-50735,2022,2022-02-03,property,theft/other,theft/other,property|theft/other,17:30:00
-50736,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,16:00:00
-50737,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,20:00:00
 50738,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,08:00:00
 50739,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,14:30:00
 50740,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,20:00:00
@@ -22694,12 +22408,10 @@
 50751,2022,2022-04-10,property,theft f/auto,theft f/auto,property|theft f/auto,03:00:00
 50752,2022,2022-04-16,violent,robbery,robbery,violent|robbery,15:46:00
 50753,2022,2022-04-17,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,01:04:00
-50754,2022,2022-02-01,violent,robbery,robbery,violent|robbery,03:30:00
 50755,2022,2022-03-14,violent,sex abuse,sex abuse,violent|sex abuse,22:00:00
 50756,2022,2022-04-17,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,01:28:00
 50757,2022,2022-04-17,property,burglary,burglary,property|burglary,03:53:00
 50758,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,07:49:00
-50763,2022,2022-02-01,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,01:53:00
 50764,2022,2022-02-19,property,theft/other,theft/other,property|theft/other,12:28:00
 50765,2022,2022-02-19,property,theft/other,theft/other,property|theft/other,14:05:00
 50766,2022,2022-02-25,property,theft/other,theft/other,property|theft/other,14:05:00
@@ -22836,11 +22548,7 @@
 50907,2022,2022-02-25,property,theft/other,theft/other,property|theft/other,12:00:00
 50908,2022,2022-04-20,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
 50909,2022,2022-04-21,property,theft/other,theft/other,property|theft/other,06:20:00
-50911,2022,2022-02-04,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,19:55:00
-50912,2022,2022-02-05,violent,robbery,robbery,violent|robbery,00:17:00
 50913,2022,2022-02-23,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,02:47:00
-50916,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,00:35:00
-50917,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,05:20:00
 50918,2022,2022-02-17,property,theft/other,theft/other,property|theft/other,12:10:00
 50919,2022,2022-02-21,property,theft f/auto,theft f/auto,property|theft f/auto,13:00:00
 50920,2022,2022-02-23,property,theft/other,theft/other,property|theft/other,00:47:00
@@ -22868,7 +22576,6 @@
 50945,2022,2022-04-05,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,01:00:00
 50946,2022,2022-04-05,violent,robbery,robbery,violent|robbery,01:12:00
 50947,2022,2022-04-18,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,09:11:00
-50950,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,18:44:00
 50951,2022,2022-02-12,property,theft f/auto,theft f/auto,property|theft f/auto,12:51:00
 50952,2022,2022-02-12,property,theft f/auto,theft f/auto,property|theft f/auto,14:18:00
 50953,2022,2022-02-12,property,theft/other,theft/other,property|theft/other,18:42:00
@@ -22922,10 +22629,6 @@
 51001,2022,2022-05-02,property,theft/other,theft/other,property|theft/other,12:40:00
 51002,2022,2022-05-05,property,theft/other,theft/other,property|theft/other,08:51:00
 51003,2022,2022-04-26,property,theft f/auto,theft f/auto,property|theft f/auto,16:55:00
-51004,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,17:00:00
-51005,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
-51006,2022,2022-02-05,property,theft/other,theft/other,property|theft/other,10:10:00
-51007,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,19:45:00
 51008,2022,2022-03-08,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,01:23:00
 51009,2022,2022-03-20,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,22:40:00
 51010,2022,2022-03-26,violent,robbery,robbery,violent|robbery,21:38:00
@@ -23187,7 +22890,6 @@
 51292,2022,2022-04-26,property,theft/other,theft/other,property|theft/other,17:45:00
 51293,2022,2022-04-25,property,theft f/auto,theft f/auto,property|theft f/auto,20:45:00
 51294,2022,2022-03-30,property,theft/other,theft/other,property|theft/other,18:10:00
-51296,2022,2022-02-04,property,theft f/auto,theft f/auto,property|theft f/auto,00:00:00
 51297,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,18:30:00
 51298,2022,2022-02-09,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,22:24:00
 51299,2022,2022-02-10,property,theft/other,theft/other,property|theft/other,02:00:00
@@ -23293,7 +22995,6 @@
 51416,2022,2022-04-22,property,theft/other,theft/other,property|theft/other,15:32:00
 51418,2022,2022-02-06,property,theft/other,theft/other,property|theft/other,12:30:00
 51419,2022,2022-02-06,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,16:39:00
-51420,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 51421,2022,2022-02-24,property,theft f/auto,theft f/auto,property|theft f/auto,17:56:00
 51422,2022,2022-02-24,property,theft f/auto,theft f/auto,property|theft f/auto,17:20:00
 51423,2022,2022-02-23,property,theft f/auto,theft f/auto,property|theft f/auto,23:00:00
@@ -23301,9 +23002,6 @@
 51425,2022,2022-02-24,property,theft/other,theft/other,property|theft/other,19:50:00
 51426,2022,2022-02-24,property,theft/other,theft/other,property|theft/other,21:03:00
 51427,2022,2022-03-03,property,theft/other,theft/other,property|theft/other,06:41:00
-51428,2022,2022-02-02,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,02:09:00
-51429,2022,2022-02-02,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,01:18:00
-51430,2022,2022-02-02,violent,robbery,robbery,violent|robbery,05:08:00
 51431,2022,2022-05-01,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,23:24:00
 51432,2022,2022-05-01,violent,sex abuse,sex abuse,violent|sex abuse,21:30:00
 51433,2022,2022-05-08,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,03:00:00
@@ -23367,8 +23065,6 @@
 51496,2022,2022-05-03,property,theft f/auto,theft f/auto,property|theft f/auto,19:45:00
 51497,2022,2022-05-10,property,theft f/auto,theft f/auto,property|theft f/auto,12:00:00
 51498,2022,2022-05-11,property,theft/other,theft/other,property|theft/other,13:32:00
-51499,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,03:00:00
-51501,2022,2022-02-03,property,theft f/auto,theft f/auto,property|theft f/auto,10:00:00
 51502,2022,2022-02-16,property,theft/other,theft/other,property|theft/other,16:04:00
 51503,2022,2022-02-21,property,burglary,burglary,property|burglary,23:05:00
 51504,2022,2022-02-16,property,theft f/auto,theft f/auto,property|theft f/auto,13:00:00
@@ -23406,7 +23102,6 @@
 51544,2022,2022-02-25,property,theft/other,theft/other,property|theft/other,17:30:00
 51545,2022,2022-03-28,property,theft/other,theft/other,property|theft/other,17:09:00
 51546,2022,2022-04-04,violent,robbery,robbery,violent|robbery,08:25:00
-51547,2022,2022-02-02,violent,robbery,robbery,violent|robbery,10:39:00
 51548,2022,2022-05-29,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,18:30:00
 51549,2022,2022-06-01,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,17:49:00
 51550,2022,2022-04-03,property,theft f/auto,theft f/auto,property|theft f/auto,18:45:00
@@ -23421,8 +23116,6 @@
 51559,2022,2022-04-24,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,16:04:00
 51560,2022,2022-04-24,property,theft/other,theft/other,property|theft/other,16:20:00
 51561,2022,2022-04-24,property,theft/other,theft/other,property|theft/other,17:23:00
-51562,2022,2022-02-02,property,burglary,burglary,property|burglary,04:30:00
-51563,2022,2022-02-01,property,theft f/auto,theft f/auto,property|theft f/auto,21:00:00
 51564,2022,2022-02-08,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,06:51:00
 51565,2022,2022-02-07,property,theft f/auto,theft f/auto,property|theft f/auto,16:00:00
 51566,2022,2022-02-08,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,09:14:00
@@ -23468,8 +23161,6 @@
 51606,2022,2022-05-17,property,theft f/auto,theft f/auto,property|theft f/auto,11:39:00
 51607,2022,2022-05-21,property,theft/other,theft/other,property|theft/other,14:30:00
 51608,2022,2022-05-14,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:00:00
-51609,2022,2022-02-02,property,theft/other,theft/other,property|theft/other,17:11:00
-51610,2022,2022-02-04,property,theft/other,theft/other,property|theft/other,10:00:00
 51611,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,16:30:00
 51612,2022,2022-02-09,property,theft/other,theft/other,property|theft/other,18:35:00
 51613,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,19:42:00
@@ -23579,9 +23270,6 @@
 51727,2022,2022-04-17,violent,robbery,robbery,violent|robbery,17:35:00
 51728,2022,2022-04-17,violent,robbery,robbery,violent|robbery,21:26:00
 51729,2022,2022-04-18,violent,robbery,robbery,violent|robbery,02:55:00
-51731,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,22:48:00
-51732,2022,2022-02-05,property,burglary,burglary,property|burglary,18:00:00
-51733,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,21:00:00
 51735,2022,2022-02-10,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 51736,2022,2022-02-23,property,theft f/auto,theft f/auto,property|theft f/auto,13:49:00
 51737,2022,2022-02-24,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,09:40:00
@@ -23602,10 +23290,6 @@
 51753,2022,2022-02-20,violent,robbery,robbery,violent|robbery,15:49:00
 51754,2022,2022-05-27,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,01:43:00
 51755,2022,2022-05-27,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,01:40:00
-51759,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,16:00:00
-51760,2022,2022-02-01,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:40:00
-51761,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,12:00:00
-51762,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,20:52:00
 51763,2022,2022-02-20,property,burglary,burglary,property|burglary,04:08:00
 51764,2022,2022-02-10,property,theft/other,theft/other,property|theft/other,07:00:00
 51765,2022,2022-02-20,property,theft/other,theft/other,property|theft/other,11:46:00
@@ -23809,8 +23493,6 @@
 51979,2022,2022-03-12,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,23:52:00
 51980,2022,2022-03-31,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,21:30:00
 51981,2022,2022-03-31,violent,robbery,robbery,violent|robbery,21:25:00
-51982,2022,2022-02-05,violent,robbery,robbery,violent|robbery,19:20:00
-51983,2022,2022-02-05,violent,robbery,robbery,violent|robbery,23:10:00
 51984,2022,2022-03-02,violent,robbery,robbery,violent|robbery,09:06:00
 51985,2022,2022-03-31,property,theft f/auto,theft f/auto,property|theft f/auto,23:10:00
 51986,2022,2022-04-01,property,theft/other,theft/other,property|theft/other,07:31:00
@@ -23821,9 +23503,6 @@
 51991,2022,2022-04-06,property,theft f/auto,theft f/auto,property|theft f/auto,21:26:00
 51992,2022,2022-04-21,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,08:30:00
 51993,2022,2022-04-08,property,theft/other,theft/other,property|theft/other,00:00:00
-51999,2022,2022-02-05,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,17:56:00
-52000,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,12:15:00
-52001,2022,2022-02-05,property,theft f/auto,theft f/auto,property|theft f/auto,23:14:00
 52002,2022,2022-02-06,property,theft/other,theft/other,property|theft/other,00:19:00
 52003,2022,2022-02-09,property,theft f/auto,theft f/auto,property|theft f/auto,19:00:00
 52004,2022,2022-02-11,property,theft/other,theft/other,property|theft/other,01:43:00
@@ -23834,9 +23513,6 @@
 52009,2022,2022-02-12,property,theft/other,theft/other,property|theft/other,11:59:00
 52010,2022,2022-03-01,property,theft/other,theft/other,property|theft/other,07:24:00
 52011,2022,2022-04-10,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,13:43:00
-52012,2022,2022-02-01,violent,robbery,robbery,violent|robbery,09:23:00
-52013,2022,2022-02-01,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,09:20:00
-52014,2022,2022-02-01,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,12:08:00
 52015,2022,2022-02-19,violent,homicide,homicide,violent|homicide,19:29:00
 52016,2022,2022-03-01,property,theft f/auto,theft f/auto,property|theft f/auto,22:30:00
 52017,2022,2022-03-02,property,theft f/auto,theft f/auto,property|theft f/auto,12:21:00
@@ -23855,7 +23531,6 @@
 52030,2022,2022-04-14,property,theft f/auto,theft f/auto,property|theft f/auto,07:30:00
 52031,2022,2022-04-17,property,theft/other,theft/other,property|theft/other,14:25:00
 52032,2022,2022-04-13,property,theft f/auto,theft f/auto,property|theft f/auto,15:00:00
-52034,2022,2022-02-01,property,theft/other,theft/other,property|theft/other,10:21:00
 52035,2022,2022-02-19,property,burglary,burglary,property|burglary,23:11:00
 52036,2022,2022-02-25,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,20:05:00
 52037,2022,2022-03-11,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,03:42:00
@@ -23935,7 +23610,6 @@
 52121,2022,2022-04-22,property,theft/other,theft/other,property|theft/other,23:00:00
 52122,2022,2022-04-23,property,theft/other,theft/other,property|theft/other,18:57:00
 52123,2022,2022-04-23,property,theft f/auto,theft f/auto,property|theft f/auto,14:15:00
-52125,2022,2022-02-01,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,13:57:00
 52127,2022,2022-02-25,property,theft f/auto,theft f/auto,property|theft f/auto,23:50:00
 52128,2022,2022-02-26,property,burglary,burglary,property|burglary,00:00:00
 52129,2022,2022-02-26,property,theft/other,theft/other,property|theft/other,06:23:00
@@ -23998,8 +23672,6 @@
 52187,2022,2022-03-25,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,12:59:00
 52188,2022,2022-03-18,property,theft/other,theft/other,property|theft/other,16:00:00
 52189,2022,2022-03-25,property,theft/other,theft/other,property|theft/other,15:30:00
-52190,2022,2022-02-05,violent,assault w/dangerous weapon,assault w/dangerous weapon,violent|assault w/dangerous weapon,10:00:00
-52191,2022,2022-02-05,violent,robbery,robbery,violent|robbery,10:32:00
 52192,2022,2022-04-14,property,motor vehicle theft,motor vehicle theft,property|motor vehicle theft,15:23:00
 52193,2022,2022-04-14,property,theft/other,theft/other,property|theft/other,16:40:00
 52194,2022,2022-04-18,property,theft/other,theft/other,property|theft/other,10:34:00
