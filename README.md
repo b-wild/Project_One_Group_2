@@ -1,7 +1,10 @@
 # Does Washington DC Weather Impact It’s Crime?
 GWU – DATA ANALYSIS BOOTCAMP
+
 Project One, Group 2
+
 Group Members:  Vikas Agrawal, Yonatan Gorin, Desiree Joseph, Beth Wilde
+
 February 15, 2023
 
 ##### Project Description/Outline
